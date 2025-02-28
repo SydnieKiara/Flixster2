@@ -1,7 +1,7 @@
-# FlixsterPart2KotlinCodepath
+# FlixsterPart2
 # Android Project 4 - *FlixsterExtended*
 
-Submitted by: **Ivan Ibhawoh**
+Submitted by: **Sydnie Johnson**
 
 **FlixsterExtended** is a movie browsing app that allows users to browse ... [TODO] 
 
@@ -29,14 +29,17 @@ The following **additional** features are implemented:
 - Added scrollable textview so user can scroll through the description in the main activity
 - Added themes and styles for more clarity 
 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![walkthrough_flixster2](https://user-images.githubusercontent.com/64405568/192178007-2466830d-7d26-489f-8c67-5e653ae53f25.gif)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[Kap](https://getkap.co/) for macOS
+
+[ScreenToGif](https://www.screentogif.com/) for Windows
 
 
 ## Notes
@@ -47,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2022] [Ivan Ibhawoh]
+    Copyright [2025] [Sydnie Johnson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
